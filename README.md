@@ -12,7 +12,7 @@
 ## 使い方
 1. `Sleep_Analyze_Notebook_JP_version.ipynb`をダウンロードします。
 2. [Google Fitからデータをダウンロード](https://takeout.google.com/)してください。
-3. 任意の環境でダウンロードしたJupyter Notebookを実行してください。
+3. (Google Colab以外の)任意の環境でダウンロードしたJupyter Notebookを実行してください。
 
 ## データ分析の流れ
 1. モジュールのインポート
